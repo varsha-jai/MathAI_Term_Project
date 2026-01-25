@@ -1,7 +1,7 @@
 # MathAI_Term_Project
-This repo is used for the Math for AI term project 
-**Students:** Andy, Lalit, Aparna, Ali, Damir, Jordan, Iva, Varsha Jaikrishnan  
-**Submission Name:** MathAI_Term_Project
+This repo is used for the Math for AI term project<br> 
+**Students:** Andy, Lalit, Aparna, Ali, Damir, Jordan, Iva, Varsha Jaikrishnan<br>  
+**Submission Name:** MathAI_Term_Project<br>
 
 ---
 
@@ -9,7 +9,7 @@ This repo is used for the Math for AI term project
 1.	Obtain a large classification database
 2.	Perform EDA of the dataset
 3.	Pre-process and clean the dataset
-4.	Use following approaches for classification of the dataset:
+4.	Use following approaches for classification of the dataset:<br>
   A.	Logistic Regression<br>
   B.	Decision Tree<br>
   C.	Random Forest<br>
